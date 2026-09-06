@@ -1,21 +1,8 @@
 [
   {
-    "proxy": "http://38.75.82.216:999",
+    "proxy": "http://200.35.153.56:999",
     "protocol": "http",
-    "ip": "38.75.82.216",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "DO",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://38.52.221.36:999",
-    "protocol": "http",
-    "ip": "38.52.221.36",
+    "ip": "200.35.153.56",
     "port": 999,
     "https": false,
     "anonymity": "transparent",

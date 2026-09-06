@@ -26,6 +26,19 @@
     }
   },
   {
+    "proxy": "http://185.145.4.165:443",
+    "protocol": "http",
+    "ip": "185.145.4.165",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EE",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://193.42.112.150:1088",
     "protocol": "http",
     "ip": "193.42.112.150",
