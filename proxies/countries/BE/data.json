@@ -13,32 +13,6 @@
     }
   },
   {
-    "proxy": "http://34.140.137.151:80",
-    "protocol": "http",
-    "ip": "34.140.137.151",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BE",
-      "city": "Brussels"
-    }
-  },
-  {
-    "proxy": "http://147.93.176.66:3128",
-    "protocol": "http",
-    "ip": "147.93.176.66",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BE",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://147.93.172.241:5555",
     "protocol": "socks5",
     "ip": "147.93.172.241",
@@ -49,6 +23,19 @@
     "geolocation": {
       "country": "BE",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://34.140.137.151:80",
+    "protocol": "http",
+    "ip": "34.140.137.151",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BE",
+      "city": "Brussels"
     }
   },
   {
@@ -117,36 +104,10 @@
     }
   },
   {
-    "proxy": "http://146.103.3.108:7161",
+    "proxy": "http://146.103.56.186:5734",
     "protocol": "http",
-    "ip": "146.103.3.108",
-    "port": 7161,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://146.103.56.19:5567",
-    "protocol": "http",
-    "ip": "146.103.56.19",
-    "port": 5567,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://146.103.3.181:7234",
-    "protocol": "http",
-    "ip": "146.103.3.181",
-    "port": 7234,
+    "ip": "146.103.56.186",
+    "port": 5734,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -169,36 +130,75 @@
     }
   },
   {
-    "proxy": "http://146.103.56.153:5701",
-    "protocol": "http",
-    "ip": "146.103.56.153",
-    "port": 5701,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://146.103.56.186:5734",
-    "protocol": "http",
-    "ip": "146.103.56.186",
-    "port": 5734,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BE",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://146.103.3.146:7199",
     "protocol": "http",
     "ip": "146.103.3.146",
     "port": 7199,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://146.103.56.19:5567",
+    "protocol": "http",
+    "ip": "146.103.56.19",
+    "port": 5567,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://146.103.3.108:7161",
+    "protocol": "http",
+    "ip": "146.103.3.108",
+    "port": 7161,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://146.103.3.181:7234",
+    "protocol": "http",
+    "ip": "146.103.3.181",
+    "port": 7234,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://146.103.56.130:5678",
+    "protocol": "http",
+    "ip": "146.103.56.130",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://146.103.43.234:8118",
+    "protocol": "http",
+    "ip": "146.103.43.234",
+    "port": 8118,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

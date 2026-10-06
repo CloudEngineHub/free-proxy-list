@@ -1,0 +1,15 @@
+[
+  {
+    "proxy": "http://181.78.186.3:999",
+    "protocol": "http",
+    "ip": "181.78.186.3",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PA",
+      "city": "Unknown"
+    }
+  }
+]

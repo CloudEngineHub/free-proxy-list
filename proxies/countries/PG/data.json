@@ -1,15 +1,15 @@
 [
   {
-    "proxy": "http://77.29.139.222:8080",
+    "proxy": "http://103.43.145.42:8080",
     "protocol": "http",
-    "ip": "77.29.139.222",
+    "ip": "103.43.145.42",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "MK",
-      "city": "Shtip"
+      "country": "PG",
+      "city": "Unknown"
     }
   }
 ]

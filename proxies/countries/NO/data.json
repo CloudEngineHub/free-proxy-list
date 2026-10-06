@@ -13,16 +13,16 @@
     }
   },
   {
-    "proxy": "http://82.180.145.170:3129",
+    "proxy": "http://84.214.150.146:8080",
     "protocol": "http",
-    "ip": "82.180.145.170",
-    "port": 3129,
+    "ip": "84.214.150.146",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "NO",
-      "city": "Oslo"
+      "city": "Harestua"
     }
   },
   {
@@ -39,10 +39,10 @@
     }
   },
   {
-    "proxy": "http://45.135.139.42:6345",
+    "proxy": "http://45.135.139.211:6514",
     "protocol": "http",
-    "ip": "45.135.139.42",
-    "port": 6345,
+    "ip": "45.135.139.211",
+    "port": 6514,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -65,23 +65,10 @@
     }
   },
   {
-    "proxy": "http://84.214.150.146:8080",
+    "proxy": "http://45.135.139.42:6345",
     "protocol": "http",
-    "ip": "84.214.150.146",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NO",
-      "city": "Harestua"
-    }
-  },
-  {
-    "proxy": "http://45.135.139.211:6514",
-    "protocol": "http",
-    "ip": "45.135.139.211",
-    "port": 6514,
+    "ip": "45.135.139.42",
+    "port": 6345,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
