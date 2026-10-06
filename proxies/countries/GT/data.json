@@ -1,28 +1,15 @@
 [
   {
-    "proxy": "socks4://181.189.132.74:5678",
-    "protocol": "socks4",
-    "ip": "181.189.132.74",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GT",
-      "city": "Guatemala City"
-    }
-  },
-  {
-    "proxy": "http://181.119.111.53:999",
+    "proxy": "http://200.35.176.154:999",
     "protocol": "http",
-    "ip": "181.119.111.53",
+    "ip": "200.35.176.154",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "GT",
-      "city": "Guatemala City"
+      "city": "Unknown"
     }
   },
   {
@@ -36,6 +23,19 @@
     "geolocation": {
       "country": "GT",
       "city": "Guatemala City"
+    }
+  },
+  {
+    "proxy": "http://38.52.209.228:999",
+    "protocol": "http",
+    "ip": "38.52.209.228",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GT",
+      "city": "Mixco"
     }
   }
 ]

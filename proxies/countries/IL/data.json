@@ -39,16 +39,68 @@
     }
   },
   {
-    "proxy": "http://147.236.181.86:50009",
+    "proxy": "https://51.16.4.39:15252",
+    "protocol": "https",
+    "ip": "51.16.4.39",
+    "port": 15252,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IL",
+      "city": "Tel Aviv"
+    }
+  },
+  {
+    "proxy": "https://51.17.99.135:50400",
+    "protocol": "https",
+    "ip": "51.17.99.135",
+    "port": 50400,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IL",
+      "city": "Tel Aviv"
+    }
+  },
+  {
+    "proxy": "https://51.17.99.135:8989",
+    "protocol": "https",
+    "ip": "51.17.99.135",
+    "port": 8989,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IL",
+      "city": "Tel Aviv"
+    }
+  },
+  {
+    "proxy": "https://51.17.99.116:40013",
+    "protocol": "https",
+    "ip": "51.17.99.116",
+    "port": 40013,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IL",
+      "city": "Tel Aviv"
+    }
+  },
+  {
+    "proxy": "http://199.203.152.99:8111",
     "protocol": "http",
-    "ip": "147.236.181.86",
-    "port": 50009,
+    "ip": "199.203.152.99",
+    "port": 8111,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IL",
-      "city": "'Ezer"
+      "city": "Ness Ziona"
     }
   },
   {
@@ -130,23 +182,10 @@
     }
   },
   {
-    "proxy": "http://51.17.99.135:56413",
+    "proxy": "http://51.16.4.39:54214",
     "protocol": "http",
-    "ip": "51.17.99.135",
-    "port": 56413,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "Tel Aviv"
-    }
-  },
-  {
-    "proxy": "http://51.17.99.116:15689",
-    "protocol": "http",
-    "ip": "51.17.99.116",
-    "port": 15689,
+    "ip": "51.16.4.39",
+    "port": 54214,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

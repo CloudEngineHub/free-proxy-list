@@ -13,16 +13,16 @@
     }
   },
   {
-    "proxy": "http://181.115.67.3:999",
+    "proxy": "http://164.163.73.5:999",
     "protocol": "http",
-    "ip": "181.115.67.3",
+    "ip": "164.163.73.5",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "HN",
-      "city": "Unknown"
+      "city": "Santa Rosa de Copán"
     }
   },
   {
@@ -39,36 +39,10 @@
     }
   },
   {
-    "proxy": "http://164.163.73.5:999",
+    "proxy": "http://190.124.166.227:999",
     "protocol": "http",
-    "ip": "164.163.73.5",
+    "ip": "190.124.166.227",
     "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "Santa Rosa de Copán"
-    }
-  },
-  {
-    "proxy": "http://179.49.117.20:999",
-    "protocol": "http",
-    "ip": "179.49.117.20",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "Tegucigalpa"
-    }
-  },
-  {
-    "proxy": "http://181.115.75.102:5678",
-    "protocol": "http",
-    "ip": "181.115.75.102",
-    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -81,6 +55,19 @@
     "proxy": "http://200.52.148.10:999",
     "protocol": "http",
     "ip": "200.52.148.10",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HN",
+      "city": "Tegucigalpa"
+    }
+  },
+  {
+    "proxy": "http://179.49.117.20:999",
+    "protocol": "http",
+    "ip": "179.49.117.20",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -104,16 +91,16 @@
     }
   },
   {
-    "proxy": "http://190.124.166.227:999",
+    "proxy": "http://181.115.67.3:999",
     "protocol": "http",
-    "ip": "190.124.166.227",
+    "ip": "181.115.67.3",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "HN",
-      "city": "San Pedro Sula"
+      "city": "Unknown"
     }
   }
 ]
